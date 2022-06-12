@@ -34,4 +34,3 @@
 ## Creams
 ![#FADFAE]() `#FADFAE - Sarcoline, "flesh coloured"` - RF  
 ![#FEF6CC]() `#FEF6CC - Eburnean, like ivory` - RF  
-![#FEGY58]() `#FEF6CC - Eburnean, like ivory` - SH
